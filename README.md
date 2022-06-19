@@ -20,5 +20,5 @@
 - 👯 I’m looking to collaborate on projects servicing any of the various industries
 - 📫 You can reach me at orefaseru@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a lover of cool music and the occasianal FIFA match online
+- ⚡ Fun fact: I'm a lover of cool music and the occasional FIFA match online
 
