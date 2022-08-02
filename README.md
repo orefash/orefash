@@ -16,7 +16,7 @@
 </p>
 
 - 🔭 I’m currently learning all I can on microservices architecture
-- 🌱 I’m currently building chatbots to automate business interactions with their customers
+- 🌱 I build chatbots to automate business interactions with their customers
 - 👯 I’m looking to collaborate on projects servicing any of the various industries
 - 📫 You can reach me at orefaseru@gmail.com
 - 😄 Pronouns: He/Him
